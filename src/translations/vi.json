@@ -1,0 +1,134 @@
+{
+  "home-header": {
+    "speciality": "Chuyên khoa",
+    "search-doctor": "Tìm bác sĩ theo chuyên khoa",
+    "health-falcility": "Cơ sở y tế",
+    "select-room": "Chọn bệnh viện phòng khám",
+    "doctor": "Bác sĩ",
+    "select-doctor": "Chọn bác sĩ giỏi",
+    "fee": "Gói khám",
+    "check-health": "Khám sức khỏe tổng quát",
+    "support": "Hỗ trợ",
+    "welcome": "Xin chào, "
+  },
+
+  "banner": {
+    "title1": "NỀN TẢNG Y TẾ",
+    "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+    "child1": "Khám chuyên khoa",
+    "child2": "Khám từ xa",
+    "child3": "Khám tổng quát",
+    "child4": "Xét nghiệm y học",
+    "child5": "Sức khỏe tinh thần",
+    "child6": "Khám nha khoa"
+  },
+
+  "menu": {
+    "system": {
+      "header": "Hệ thống",
+      "system-administrator": {
+        "header": "Quản trị hệ thống",
+        "user-manage": "Quản lý người sử dụng",
+        "user-redux": "Quản lý user redux",
+        "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+      },
+      "system-parameter": {
+        "header": "Tham số hệ thống"
+      }
+    },
+
+    "admin": {
+      "manage-user": "Người dùng",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý admin",
+      "crud": "CRUD user",
+      "crud-redux": "CRUD redux",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám",
+      "specialty": "Chuyên khoa",
+      "manage-specialty": "Quản lý chuyên khoa",
+      "handbook": "Cẩm nang",
+      "manage-handbook": "Quản lý phòng khám"
+    },
+
+    "doctor": {
+      "manage-schedule": "Quản lý kế hoạch khám bệnh",
+      "manage-patient": "Quản lý bệnh nhân khám bệnh"
+    }
+  },
+
+  "manage-user": {
+    "manage-user": "Quản lý người dùng",
+    "add": "Thêm mới người dùng",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "first-name": "Tên",
+    "last-name": "Họ",
+    "phone-number": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "position": "Chức danh",
+    "role": "Vai trò",
+    "save": "Thêm người dùng",
+    "image": "Ảnh",
+    "edit": "Lưu thay đổi"
+  },
+
+  "homepage": {
+    "out-standing-doctor": "Bác sĩ nổi bật",
+    "more-info": "Xem thêm",
+    "specialty-popular": "Chuyên khoa phổ biến"
+  },
+
+  "manage-schedule": {
+    "title": "Quản lý kế hoạch khám bệnh của bác sĩ",
+    "choose-doctor": "Chọn bác sĩ",
+    "choose-date": "Chọn ngày",
+    "save": "Lưu thông tin"
+  },
+
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Lịch khám",
+      "no-schedule": "Không có lịch hẹn trong ngày này. Vui lòng chọn ngày khác",
+      "choose": "Chọn và đặt(miễn phí)"
+    },
+    "extra-info-doctor": {
+      "text-address": "Địa chỉ khám",
+      "price": "Giá khám: ",
+      "detail": "Xem chi tiết",
+      "payment": "Người bệnh có thể thanh toán chi phí bằng hình thức: ",
+      "hide-price": "Ẩn bảng giá"
+    },
+    "booking-modal": {
+      "title": "Thông Tin Đặt Lịch",
+      "fullName": "Họ và tên",
+      "phoneNumber": "Số điện thoại",
+      "email": "Email",
+      "reason": "Lý do khám",
+      "address": "Địa chỉ",
+      "birthDay": "Ngày sinh",
+      "gender": "Giới tính",
+      "confirm": "Xác nhận",
+      "cancel": "Hủy"
+    }
+  },
+
+  "admin": {
+    "manage-doctor": {
+      "title": "Tạo thông tin bác sĩ",
+      "select-doctor": "Chọn bác sĩ",
+      "intro": "Thông tin giới thiệu",
+      "add": "Tạo thông tin",
+      "save": "Lưu thông tin",
+      "select-price": "Chọn giá",
+      "select-payment": "Chọn phương thức thanh toán",
+      "select-province": "Chọn tỉnh/thành phố",
+      "clinic-name": "Tên phòng khám",
+      "clinic-address": "Địa chỉ phòng khám",
+      "note": "Ghi chú",
+      "specialty": "Chon chuyen khoa",
+      "clinic": "Chon phong kham"
+    }
+  }
+}
